@@ -31,7 +31,7 @@ The charter can be viewed [here](https://docs.google.com/document/d/1sCsD-QiLkXr
 | Committee      | Name               | GitHub                    | Discord           | Twitter |
 |----------------|--------------------|---------------------------|-------------------|---------|
 | **Treasury**   | Dan                |                           | dangreen.eth#3549 |         |
-|                | Josh               |                           | Josh Fraser#1105  |         |
+|                | Josh               | [@joshfraser](https://github.com/joshfraser) | Josh Fraser#1105  | [@joshfraser](https://twitter.com/joshfraser) |
 |                | Tak                |                           | maddog_xyz#7920   |         |
 | **Governance** | Matt Galligan (mg) | [@mg0716](https://github.com/mg0716) | mg#9999           | [@mg](https://twitter.com/mg)     |
 |                | Matt Joyal         |                           | mattjoyal#0985    |         |
