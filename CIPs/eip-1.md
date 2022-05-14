@@ -1,39 +1,34 @@
 ---
 eip: 1
-title: EIP Purpose and Guidelines
+title: CIP Purpose and Guidelines
 status: Living
-type: Meta
-author: Martin Becze <mb@ethereum.org>, Hudson Jameson <hudson@ethereum.org>, et al.
-created: 2015-10-27
+type: Governance
+author: Matt Galligan <matt@galligan.xyz>, et al.
+created: 2022-05-14
 ---
 
-## What is an EIP?
+## What is a CIP?
 
-EIP stands for Ethereum Improvement Proposal. An EIP is a design document providing information to the Ethereum community, or describing a new feature for Ethereum or its processes or environment. The EIP should provide a concise technical specification of the feature and a rationale for the feature. The EIP author is responsible for building consensus within the community and documenting dissenting opinions.
+CIP stands for Constellation DAO Improvement Proposal. A CIP is a design document providing information to Constellation DAO, or describing improvements or changes to DAO operations, and new efforts within its membership. The CIP should provide a concise description and rationale of the concept. The CIP author is responsible for building consensus within the DAO and documenting dissenting opinions.
 
-## EIP Rationale
+## CIP Rationale
 
-We intend EIPs to be the primary mechanisms for proposing new features, for collecting community technical input on an issue, and for documenting the design decisions that have gone into Ethereum. Because the EIPs are maintained as text files in a versioned repository, their revision history is the historical record of the feature proposal.
+We intend CIPs to be the primary mechanisms for proposing new efforts, for collecting input on an issue, and for documenting the design decisions that go into Constellation DAO. Because the CIPs are maintained as text files in a versioned repository, their revision history is the historical record of the proposal.
 
-For Ethereum implementers, EIPs are a convenient way to track the progress of their implementation. Ideally each implementation maintainer would list the EIPs that they have implemented. This will give end users a convenient way to know the current status of a given implementation or library.
+## CIP Types
 
-## EIP Types
+There are three types of CIPs:
 
-There are three types of EIP:
+- An **Operations EIP** describes any change that affects Constellation DAO operations, such as—changes to its `governance`, ideas for new `programs` or initiatives, or any change or addition that affects the DAO `treasury`. Operations CIPs consist of two parts—a design document and its implementation. Furthermore, Operations CIPs can be broken down into the following categories:
+  - **Governance**: improvements or changes to the governance of Constellation DAO, including its charter, the proposal process, internal discussion, legal matters, and considerations relating to membership, conflicts of interest, ethical questions, and disagremeents.
+  - **Programs**: includes improvements and changes to the DAO's software, tools, documentation. It also includes matters relating to the growth of the membership, including the development of programs and partnerships, as well as maintaining and safeguarding membership information.
+  - **Treasury**: includes improvements or changes relating to the handling of the DAO's assets, its wallets, and the $CXN token
+- A **CRC** (Constellation DAO Request for Comment): a document that describes matters that don't directly relate to governance, programs, or treasury, and otherwise may be standards and conventions to be adopted by the DAO.
+- An **Informational CIP** provides general guidelines or information to the Constellation DAO membership, but does not propose a change to operations or activities. Informational CIPs do not necessarily represent consensus within the DAO, so members and are free to ignore Informational CIPs or follow their advice.
 
-- A **Standards Track EIP** describes any change that affects most or all Ethereum implementations, such as—a change to the network protocol, a change in block or transaction validity rules, proposed application standards/conventions, or any change or addition that affects the interoperability of applications using Ethereum. Standards Track EIPs consist of three parts—a design document, an implementation, and (if warranted) an update to the [formal specification](https://github.com/ethereum/yellowpaper). Furthermore, Standards Track EIPs can be broken down into the following categories:
-  - **Core**: improvements requiring a consensus fork (e.g. [EIP-5](./eip-5.md), [EIP-101](./eip-101.md)), as well as changes that are not necessarily consensus critical but may be relevant to [“core dev” discussions](https://github.com/ethereum/pm) (for example, [EIP-90], and the miner/node strategy changes 2, 3, and 4 of [EIP-86](./eip-86.md)).
-  - **Networking**: includes improvements around [devp2p](https://github.com/ethereum/wiki/wiki/%C3%90%CE%9EVp2p-Wire-Protocol) ([EIP-8](./eip-8.md)) and [Light Ethereum Subprotocol](https://github.com/ethereum/wiki/wiki/Light-client-protocol), as well as proposed improvements to network protocol specifications of [whisper](https://github.com/ethereum/go-ethereum/wiki/Whisper-Overview) and [swarm](https://github.com/ethereum/go-ethereum/pull/2959).
-  - **Interface**: includes improvements around client [API/RPC](https://github.com/ethereum/wiki/wiki/JSON-RPC) specifications and standards, and also certain language-level standards like method names ([EIP-6](./eip-6.md)) and [contract ABIs](https://github.com/ethereum/wiki/wiki/Ethereum-Contract-ABI). The label “interface” aligns with the [interfaces repo] and discussion should primarily occur in that repository before an EIP is submitted to the EIPs repository.
-  - **ERC**: application-level standards and conventions, including contract standards such as token standards ([EIP-20](./eip-20.md)), name registries ([EIP-137](./eip-137.md)), URI schemes, library/package formats, and wallet formats.
+It is highly recommended that a single CIP contain a single key proposal or new idea. The more focused the CIP, the more successful it tends to be.
 
-- A **Meta EIP** describes a process surrounding Ethereum or proposes a change to (or an event in) a process. Process EIPs are like Standards Track EIPs but apply to areas other than the Ethereum protocol itself. They may propose an implementation, but not to Ethereum's codebase; they often require community consensus; unlike Informational EIPs, they are more than recommendations, and users are typically not free to ignore them. Examples include procedures, guidelines, changes to the decision-making process, and changes to the tools or environment used in Ethereum development. Any meta-EIP is also considered a Process EIP.
-
-- An **Informational EIP** describes an Ethereum design issue, or provides general guidelines or information to the Ethereum community, but does not propose a new feature. Informational EIPs do not necessarily represent Ethereum community consensus or a recommendation, so users and implementers are free to ignore Informational EIPs or follow their advice.
-
-It is highly recommended that a single EIP contain a single key proposal or new idea. The more focused the EIP, the more successful it tends to be. A change to one client doesn't require an EIP; a change that affects multiple clients, or defines a standard for multiple apps to use, does.
-
-An EIP must meet certain minimum criteria. It must be a clear and complete description of the proposed enhancement. The enhancement must represent a net improvement. The proposed implementation, if applicable, must be solid and must not complicate the protocol unduly.
+A CIP must meet certain minimum criteria. It must be a clear and complete description of the proposed change. The change must represent a net improvement. The proposed implementation, if applicable, must be solid and must not complicate Constellation DAO unduly.
 
 ### Special requirements for Core EIPs
 
