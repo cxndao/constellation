@@ -1,5 +1,5 @@
 ---
-eip: 1
+cip: 1
 title: CIP Purpose and Guidelines
 status: Living
 type: Governance
@@ -19,7 +19,7 @@ We intend CIPs to be the primary mechanisms for proposing new efforts, for colle
 
 There are three types of CIPs:
 
-- An **Operations EIP** describes any change that affects Constellation DAO operations, such as—changes to its `governance`, ideas for new `programs` or initiatives, or any change or addition that affects the DAO `treasury`. Operations CIPs consist of two parts—a design document and its implementation. Furthermore, Operations CIPs can be broken down into the following categories:
+- An **Operations CIP** describes any change that affects Constellation DAO operations, such as—changes to its `governance`, ideas for new `programs` or initiatives, or any change or addition that affects the DAO `treasury`. Operations CIPs consist of two parts—a design document and its implementation. Furthermore, Operations CIPs can be broken down into the following categories:
   - **Governance**: improvements or changes to the governance of Constellation DAO, including its charter, the proposal process, internal discussion, legal matters, and considerations relating to membership, conflicts of interest, ethical questions, and disagremeents.
   - **Programs**: includes improvements and changes to the DAO's software, tools, documentation. It also includes matters relating to the growth of the membership, including the development of programs and partnerships, as well as maintaining and safeguarding membership information.
   - **Treasury**: includes improvements or changes relating to the handling of the DAO's assets, its wallets, and the $CXN token
@@ -30,62 +30,36 @@ It is highly recommended that a single CIP contain a single key proposal or new 
 
 A CIP must meet certain minimum criteria. It must be a clear and complete description of the proposed change. The change must represent a net improvement. The proposed implementation, if applicable, must be solid and must not complicate Constellation DAO unduly.
 
-### Special requirements for Core EIPs
+## CIP Work Flow
 
-If a **Core** EIP mentions or proposes changes to the EVM (Ethereum Virtual Machine), it should refer to the instructions by their mnemonics and define the opcodes of those mnemonics at least once. A preferred way is the following:
-```
-REVERT (0xfe)
-```
+### Shepherding a CIP
 
-## EIP Work Flow
+Parties involved in the process are you, the champion or *CIP author*, the [*CIP editors*](#cip-editors), and the Governance committee.
 
-### Shepherding an EIP
+Before you begin writing a formal CIP, you should vet your idea. Ask first in the CXN DAO Discord if an idea is original to avoid wasting time on something that may be rejected based on prior work or knowledge. From there you should open a discussion thread on [GitHub Discussions](https://github.com/cxndao/constellation/discussions/categories/cips) to vet and explore the idea further as a CIP Draft. 
 
-Parties involved in the process are you, the champion or *EIP author*, the [*EIP editors*](#eip-editors), and the [*Ethereum Core Developers*](https://github.com/ethereum/pm).
+Once the idea has been vetted, your next responsibility will be to present (by means of a CIP) the idea to the reviewers and all interested parties, inviting the DAO community and other relevant parties to give feedback on the aforementioned channels. You should try and gauge whether the interest in your CIP is commensurate with both the work involved in implementing it and how many parties will be affected by it. For example, the work required for implementing a Governance CIP maybe be greater than for an Informational CIP and the CIP will need sufficient interest from the DAO committees. Negative community feedback will be taken into consideration and may prevent your CIP from moving past the Draft stage.
 
-Before you begin writing a formal EIP, you should vet your idea. Ask the Ethereum community first if an idea is original to avoid wasting time on something that will be rejected based on prior research. It is thus recommended to open a discussion thread on [the Ethereum Magicians forum](https://ethereum-magicians.org/) to do this. 
+### Operations CIPs
 
-Once the idea has been vetted, your next responsibility will be to present (by means of an EIP) the idea to the reviewers and all interested parties, invite editors, developers, and the community to give feedback on the aforementioned channels. You should try and gauge whether the interest in your EIP is commensurate with both the work involved in implementing it and how many parties will have to conform to it. For example, the work required for implementing a Core EIP will be much greater than for an ERC and the EIP will need sufficient interest from the Ethereum client teams. Negative community feedback will be taken into consideration and may prevent your EIP from moving past the Draft stage.
+As Operations CIPs are largely affecting, or aligned with, the DAO's elected committees, it is important there you work with at least one committee member from a team who might be impacted.
 
-### Core EIPs
+### CIP Process 
 
-For Core EIPs, given that they require client implementations to be considered **Final** (see "EIPs Process" below), you will need to either provide an implementation for clients or convince clients to implement your EIP. 
+The following is the standardization process for all CIPs in all tracks:
 
-The best way to get client implementers to review your EIP is to present it on an AllCoreDevs call. You can request to do so by posting a comment linking your EIP on an [AllCoreDevs agenda GitHub Issue](https://github.com/ethereum/pm/issues).  
+![EIP Status Diagram](https://github.com/ethereum/EIPs/raw/master/assets/eip-1/EIP-process-update.jpg)
 
-The AllCoreDevs call serves as a way for client implementers to do three things. First, to discuss the technical merits of EIPs. Second, to gauge what other clients will be implementing. Third, to coordinate EIP implementation for network upgrades.
-
-These calls generally result in a "rough consensus" around what EIPs should be implemented. This "rough consensus" rests on the assumptions that EIPs are not contentious enough to cause a network split and that they are technically sound.
-
-:warning: The EIPs process and AllCoreDevs call were not designed to address contentious non-technical issues, but, due to the lack of other ways to address these, often end up entangled in them. This puts the burden on client implementers to try and gauge community sentiment, which hinders the technical coordination function of EIPs and AllCoreDevs calls. If you are shepherding an EIP, you can make the process of building community consensus easier by making sure that [the Ethereum Magicians forum](https://ethereum-magicians.org/) thread for your EIP includes or links to as much of the community discussion as possible and that various stakeholders are well-represented.
-
-*In short, your role as the champion is to write the EIP using the style and format described below, shepherd the discussions in the appropriate forums, and build community consensus around the idea.* 
-
-### EIP Process 
-
-The following is the standardization process for all EIPs in all tracks:
-
-![EIP Status Diagram](../assets/eip-1/EIP-process-update.jpg)
-
-**Idea** - An idea that is pre-draft. This is not tracked within the EIP Repository.
-
-**Draft** - The first formally tracked stage of an EIP in development. An EIP is merged by an EIP Editor into the EIP repository when properly formatted.
-
-**Review** - An EIP Author marks an EIP as ready for and requesting Peer Review.
-
-**Last Call** - This is the final review window for an EIP before moving to `Final`. An EIP editor will assign `Last Call` status and set a review end date (`last-call-deadline`), typically 14 days later.
-
-If this period results in necessary normative changes it will revert the EIP to `Review`.
-
-**Final** - This EIP represents the final standard. A Final EIP exists in a state of finality and should only be updated to correct errata and add non-normative clarifications.
-
-**Stagnant** - Any EIP in `Draft` or `Review` or `Last Call` if inactive for a period of 6 months or greater is moved to `Stagnant`. An EIP may be resurrected from this state by Authors or EIP Editors through moving it back to `Draft` or it's earlier status. If not resurrected, a proposal may stay forever in this status. 
-
->*EIP Authors are notified of any algorithmic change to the status of their EIP*
-
-**Withdrawn** - The EIP Author(s) have withdrawn the proposed EIP. This state has finality and can no longer be resurrected using this EIP number. If the idea is pursued at later date it is considered a new proposal.
-
-**Living** - A special status for EIPs that are designed to be continually updated and not reach a state of finality. This includes most notably EIP-1.
+- **Idea:** An idea that is pre-draft. This is not tracked within the CIP Repository.
+- **Draft:** The first formally tracked stage of an CIP in development. A CIP is added to the by a CIP Editor into the CIP repository when properly formatted.
+- **Review:** An CIP Author marks an CIP as ready for and requesting Peer Review. The CIP will advance from this stage after it has received an ID (formatted as `CIP-n`) from a CIP Editor (typically reflecting the CIP's pull request number).
+- **Voting:** This CIP has been posted Snapshot for voting within the DAO.
+- **Final:** - This CIP represents the final proposal that has been approved adopted by the DAO.
+- **Stagnant:** - Any CIP in `Draft` or `Review` or `Last Call` if inactive for a period of 90 days or greater is moved to `Stagnant`. An CIP may be resurrected from this state by Authors or CIP Editors through moving it back to `Draft` or it's earlier status. If not resurrected, a proposal may stay forever in this status.
+  - *CIP Authors are notified of any algorithmic change to the status of their CIP*
+- **Withdrawn**: The CIP Author(s) have withdrawn the proposed CIP. This state has finality and can no longer be resurrected using this CIP number. If the idea is pursued at later date it is considered a new proposal.
+- **Rejected**: The CIP has been rejected by way of vote among the DAO membership.
+- **Living**: - A special status for CIPs that are designed to be continually updated and not reach a state of finality. This includes most notably CIP-1.
 
 ## What belongs in a successful EIP?
 
