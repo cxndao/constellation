@@ -33,7 +33,7 @@ The charter can be viewed [here](https://docs.google.com/document/d/1sCsD-QiLkXr
 | **Treasury**   | Dan                |                           | dangreen.eth#3549   |                  |
 |                | Josh               | [@joshfraser](https://github.com/joshfraser)    | Josh Fraser#8888 | [@joshfraser](https://twitter.com/joshfraser) |
 |                | Tak                |                           | maddog_xyz#7920     |                  |
-| **Governance** | Matt Galligan (mg) | [@mg0716](https://github.com/mg0716)            | mg#9999          | [@mg](https://twitter.com/mg)     |
+| **Governance** | Matt Galligan (mg) | [@galligan](https://github.com/galligan)            | mg#9999          | [@mg](https://twitter.com/mg)     |
 |                | Matt Joyal (MJ)    | [@mattjoyal](https://github.com/mattjoyal)      | mattjoyal#0985   | [@matt_joyal](https://twitter.com/Matt_Joyal) |
 |                | May                |                           | may#1896            |         |
 | **Programs**   | Brian              |                           | rumple#7555         |         |
