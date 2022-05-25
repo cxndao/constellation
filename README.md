@@ -1,6 +1,6 @@
 # Constellation DAO
 
-<img width="256" alt="cxndao-proposed-logo" src="https://user-images.githubusercontent.com/25037981/165946709-c73594c3-153e-4f15-ab89-f2ff3af4cf0e.png">
+![Constellation DAO Logo](brand/assets/cxnWordmarkLight.svg)
 
 | Useful things |                                 |
 |---------------|---------------------------------|
