@@ -1,10 +1,10 @@
 ---
 cip: 1
 title: CIP Purpose and Guidelines
-status: Living
+status: Draft
 type: Governance
 author: Matt Galligan (@galligan), et al.
-created: 2022-05-14
+created: 2022-05-25
 ---
 
 ## What is a CIP?
