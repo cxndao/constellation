@@ -1,7 +1,7 @@
 ---
 cip: 1
 title: CIP Purpose and Guidelines
-status: Review
+status: Voting
 type: Governance
 author: Matt Galligan (@galligan), et al.
 created: 2022-05-25
