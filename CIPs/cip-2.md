@@ -1,5 +1,5 @@
 ---
-cip: cip-2
+cip: 2
 title: Constellation Fund Subscription for $CXN Tokens
 description: Allocate & vest 20 million $CXN tokens over 5 years to the Constellation Fund to facilitate the general fundraising.
 author: Sonny_Beez#9569, maddog_xyz#7920
@@ -28,10 +28,8 @@ The success of Constellation Fund provides significant benefits to Constellation
 
 ### Goals / Non-goals
 
-*What problems are you trying to solve? What problems are you not trying to solve?*
-
 - **Goals**
-  - The ultimate goal is to align the relationship between the DAO and the Fund by way of $CXN tokens, which ultimately results in value contributed to the token itself (both tangible and intangible)
+  - The ultimate goal is to align the relationship between the DAO and the Fund by way of $CXN tokens, which ultimately results in value contributed to the token itself (both tangible and intangible).
 
 - **Non-goals**
   - The proposal is not seeking to specifically outline the exact mechanics for the ongoing relationship following the initial issuance and establishment of it. The specifics will be provided via a new CIP in the coming near future.
@@ -46,7 +44,7 @@ Vesting schedule for the $CXN tokens received by CXNF shall be 4,000,000 tokens 
 
 ### Plan & Timeline
 
-Approval of the CIP is required in order to launch the fundraising process as $CXN tokens will be an important component of the fundraising strategy. The ultimately success of the fundraising will have benefits to the DAO as outlined in the “Background & Motivation” section
+Approval of the CIP is required in order to launch the fundraising process as $CXN tokens will be an important component of the fundraising strategy. The ultimately success of the fundraising will have benefits to the DAO as outlined in the “Background & Motivation” section.
 
 ### Dependencies
 
