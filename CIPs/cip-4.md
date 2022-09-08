@@ -59,6 +59,7 @@ For any new, non-Genesis members of CXND that join during Season 6 or beyond, th
 | Season 5    |  363        | 2025     |        | 
 | Season 6+   |  232        | -        | Floor  | 
 
+CXN DAO members can choose to vote `yes` or `no` to this distribution rate. 
 
 ### Plan & Timeline
 
