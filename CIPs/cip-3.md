@@ -4,7 +4,7 @@ title: Season 0 New Member Token Distribution Rate & AirDrop
 description: Determine a distribution rate for new CXND members that join during Season 0. 
 author: Matt Joyal [mattjoyal#0985](@mattjoyal)
 discussions-to: https://discord.com/channels/920456009267429417/1014179499149103257
-status: Voting
+status: Accepted
 type: Operations Track
 category: Treasury
 created: 2022-09-04
