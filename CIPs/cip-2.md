@@ -4,7 +4,7 @@ title: Constellation Fund Subscription for $CXN Tokens
 description: Allocate & vest 20 million $CXN tokens over 5 years to the Constellation Fund to facilitate the general fundraising.
 author: Sonny_Beez#9569, maddog_xyz#7920
 discussions-to: https://discord.com/channels/920456009267429417/1013971941494898838, https://github.com/cxndao/constellation/discussions/42
-status: voting
+status: Accepted
 type: Operations
 category: Treasury
 created: 2022-08-30
