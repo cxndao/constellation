@@ -4,7 +4,7 @@ title: Distribution Rate of $CXN Tokens to Non-Genesis Members
 description: Determine a distribution rate for new CXND members that join after Season 0. 
 author: Matt Joyal [mattjoyal#0985](mattjoyal)
 discussions-to: https://discord.com/channels/920456009267429417/1014179499149103257
-status: Review
+status: Accepted
 type: Operations Track
 category: Treasury
 created: 2022-09-04
