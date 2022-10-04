@@ -4,7 +4,7 @@ title: Season 0 New Member Token Distribution Rate & AirDrop
 description: Determine a distribution rate for new CXND members that join during Season 0. 
 author: Matt Joyal [mattjoyal#0985](@mattjoyal)
 discussions-to: https://discord.com/channels/920456009267429417/1014179499149103257
-status: Review
+status: Accepted
 type: Operations Track
 category: Treasury
 created: 2022-09-04
@@ -36,7 +36,7 @@ Per the Constellation DAO Charter, two million $CXN tokens were allotted to Gene
 
 For current and future Season 0 members verified with their NFT, these new CXND members will receive token amounts based on the following distribution rate. These tokens will come from the treasury token pool, not the season token pool. 
 
-Genesis members received an airdrop of $23,255$ $CXN tokens. Season 0 members can receive tokens based on three different distribution rates of that baseline
+Genesis members received an airdrop of $23,255$ $CXN tokens. Season 0 members can receive tokens based on two different distribution rates of that baseline.
 
 | Option | Rate  | $CXN Amount |
 | :----: | :---: | :---------: | 
