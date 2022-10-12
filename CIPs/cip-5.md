@@ -25,18 +25,18 @@ We are aiming to decentralize many of the centralized processes in the VC invest
 
 **Benefits:**
 
-Increase overall engagement of CXND members by providing opportunities to potentially work with founders (initially at investment stage, but also into the Portfolio Management stage)
-With increasing investments made, expect increased press and media coverage, which should inure to the benefit of CXND member growth and retention
-As CXND is the ultimate beneficiary of the carried interest of CXNF, financial benefit to manifest in the value of the $CXN token 
+- Increase overall engagement of CXND members by providing opportunities to potentially work with founders (initially at investment stage, but also into the Portfolio Management stage)
+- With increasing investments made, expect increased press and media coverage, which should inure to the benefit of CXND member growth and retention
+- As CXND is the ultimate beneficiary of the carried interest of CXNF, financial benefit to manifest in the value of the $CXN token 
 
 ### Goals / Non-goals
 - **Goals**
-  - (1) Decentralize traditional VC investment process 
-  - (2) Establish framework for working relationship between CXNF and CXND 
-  - (3) Increase engagement and allow for the DAO’s members to contribute based on their area of expertise 
+  1. Decentralize traditional VC investment process 
+  2. Establish framework for working relationship between CXNF and CXND 
+  3. Increase engagement and allow for the DAO’s members to contribute based on their area of expertise 
 - **Non-goals**
-  - (1) Portfolio management (post-investment) framework is not opined on as part of this proposal 
-  - (2) Outsource decision-making to the DAO, with DAO providing due diligence support 
+  1. Portfolio management (post-investment) framework is not opined on as part of this proposal 
+  2. Outsource decision-making to the DAO, with DAO providing due diligence support 
 
 ## Proposed Solution
 
@@ -50,7 +50,7 @@ The CXND VC Team can and may have various functions to assist CXNF (and ultimate
 - Portfolio Management
 - CXND Advisory Panel * (For the avoidance of doubt, CXNF ultimately will have final say on all investment decisions)
 
-_For purposes of this proposal, we will focus on Due Diligence and CXND Advisory Panel activity, with other areas to be covered at a later date and via a new written proposal (CIP tbd)._
+*_For purposes of this proposal, we will focus on Due Diligence and CXND Advisory Panel activity, with other areas to be covered at a later date and via a new written proposal (CIP tbd)._
 
 **Pre-Due Diligence**
 
@@ -61,9 +61,9 @@ We also envision that a summary of the application will be provided to all membe
 **Due Diligence**
 
 CXND VC Team will provide due diligence support and related documentation for all parts of the investment process from beginning to ultimately an investment being made. Required work product from the team would include the following (template to be provided at appropriate time):
-Initial Screening Memo (#1): to be drafted and submitted to the CXND Advisory Panel (see further herein) at initial evaluation stage of any given project, company, or opportunity (“Deals”)
-Follow Up Memo (#2)(if applicable): for Deals that proceed, there will likely be areas for further diligence, which will require the team to research / Q&A management or other sources and produce a memo to submit to the CXND Advisory Panel
-Investment Memo (#3): for Deals that continue to the investment stage, the team would be required to provide a summary of final terms (as part of assisting in negotiating terms) and other admin details in memo form and submit to the CXND Advisory Panel  
+- *Initial Screening Memo (#1):* to be drafted and submitted to the CXND Advisory Panel (see further herein) at initial evaluation stage of any given project, company, or opportunity (“Deals”)
+- *Follow Up Memo (#2) (if applicable):* for Deals that proceed, there will likely be areas for further diligence, which will require the team to research / Q&A management or other sources and produce a memo to submit to the CXND Advisory Panel
+- *Investment Memo (#3):* for Deals that continue to the investment stage, the team would be required to provide a summary of final terms (as part of assisting in negotiating terms) and other admin details in memo form and submit to the CXND Advisory Panel  
 
 Further framework to be developed as it relates to Deal team formation and composition. However, we do expect that Deal teams will naturally come together as part of the decentralized process of due diligence, whereby members of the DAO with relevant experience and expertise contribute towards the investment process. Per each Deal, we do intend to have a Deal team lead, which will either be the referrer and/or a nominated member or group.
  
@@ -76,8 +76,7 @@ Members of the CXND Advisory Panel will provide feedback at each stage of the in
 Further framework to be developed as it relates to member selection and other potential responsibilities the panel may have as it relates to shepherding of the investment evaluation process.
 
 **Process Workflow Overview**
-
-
+<br>
 **Tokens Request - 401,000 $CXN tokens in total** 
 
 *Pre Due Diligence - Token Request - 75,000 $CXN tokens*
@@ -85,7 +84,7 @@ Further framework to be developed as it relates to member selection and other po
 - 5,000 total opportunities screened and tallied
 
 *Due Diligence - Token Request - 286,000 $CXN tokens*
-(Note, the assumptions around $CXN token calculation provided to help formulate and justify the total pool of tokens available per #1, #2 (if applicable), and #3. Note that ultimate distribution of $CXN tokens to CXND contributors will be dependent upon an assessment of contribution per task. However, to be clear, the pool of $CXN tokens is fixed per #1, #2, and #3 tasks.)
+<br>The assumptions around $CXN token calculation provided to help formulate and justify the total pool of tokens available per #1, #2 (if applicable), and #3. Note that ultimate distribution of $CXN tokens to CXND contributors will be dependent upon an assessment of contribution per task. However, to be clear, the pool of $CXN tokens is fixed per #1, #2, and #3 tasks.
 
 - Initial Screening Memo (#1): 250,000 $CXN tokens (500 $CXN tokens / Deal)
   - [100] $CXN tokens per hour rate
@@ -110,7 +109,7 @@ Further framework to be developed as it relates to member selection and other po
   - Maximum of 10 total deals
   - Also serves as a variance balancing factor should any components above have a longer than expected duration
 
-- CXND Advisory Panel / Investment Committee Activity - Token Request -  40,000 $CXN tokens
+*CXND Advisory Panel / Investment Committee Activity - Token Request -  40,000 $CXN tokens*
 
 - 5 member committee to be renewed upon each new Cohort.  Each member shall be rewarded at the end of each successful Cohort with 8,000 $CXN tokens.
 
