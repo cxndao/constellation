@@ -13,7 +13,7 @@ requires: cip-2
 
 ## Overview
 
-The Fund is an independent venture investment company created to support Constellation DAO (“CXND” or “DAO”). It is run by the Sponsors of this proposal who serve as the Investment Committee members and General Partners of the Fund. For reasons of compliance, the DAO is a separate, arms-length entity that provides services to the Fund in exchange for Carried Interest (defined in prior approved proposal [CIP-2[(https://github.com/cxndao/constellation/blob/97defa859b8a83206465f2d441052154a1232a84/CIPs/cip-2.md)). This proposal establishes a partnership agreement between the DAO (and its future entities) and the Fund.
+The Fund is an independent venture investment company created to support Constellation DAO (“CXND” or “DAO”). It is run by the Sponsors of this proposal who serve as the Investment Committee members and General Partners of the Fund. For reasons of compliance, the DAO is a separate, arms-length entity that provides services to the Fund in exchange for Carried Interest (defined in prior approved proposal [CIP-2](https://github.com/cxndao/constellation/blob/97defa859b8a83206465f2d441052154a1232a84/CIPs/cip-2.md)). This proposal establishes a partnership agreement between the DAO (and its future entities) and the Fund.
 
 Constellation DAO and its members are uniquely qualified to provide due diligence and investment support to Constellation Fund. In order to unlock maximum synergies of the relationship between CXND and CXNF, the orderly working of the Constellation DAO Venture Capital Team (“CXND VC Team”) is required as a key component.
 
