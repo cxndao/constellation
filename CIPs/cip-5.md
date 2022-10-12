@@ -76,7 +76,9 @@ Members of the CXND Advisory Panel will provide feedback at each stage of the in
 Further framework to be developed as it relates to member selection and other potential responsibilities the panel may have as it relates to shepherding of the investment evaluation process.
 
 **Process Workflow Overview**
-<br>
+<br>![CIP5 slide 1](https://user-images.githubusercontent.com/65574926/195377415-6501aa12-06e0-4708-951e-aeebacda5aca.png)
+![CIP5 slide 2](https://user-images.githubusercontent.com/65574926/195377984-351f6fb9-0b93-494c-8c8d-e1fc81dba5ba.png)
+
 **Tokens Request - 401,000 $CXN tokens in total** 
 
 *Pre Due Diligence - Token Request - 75,000 $CXN tokens*
