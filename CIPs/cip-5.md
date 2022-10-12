@@ -77,13 +77,14 @@ Further framework to be developed as it relates to member selection and other po
 
 **Process Workflow Overview**
 
-Tokens Request - 401,000 $CXN tokens in total 
 
-Pre Due Diligence - Token Request - 75,000 $CXN tokens
+**Tokens Request - 401,000 $CXN tokens in total** 
+
+*Pre Due Diligence - Token Request - 75,000 $CXN tokens*
 - A pool of 15 $CXN tokens per opportunity, with estimated time spent of 10 minutes
 - 5,000 total opportunities screened and tallied
 
-Due Diligence - Token Request - 286,000 $CXN tokens
+*Due Diligence - Token Request - 286,000 $CXN tokens*
 (Note, the assumptions around $CXN token calculation provided to help formulate and justify the total pool of tokens available per #1, #2 (if applicable), and #3. Note that ultimate distribution of $CXN tokens to CXND contributors will be dependent upon an assessment of contribution per task. However, to be clear, the pool of $CXN tokens is fixed per #1, #2, and #3 tasks.)
 
 - Initial Screening Memo (#1): 250,000 $CXN tokens (500 $CXN tokens / Deal)
