@@ -4,7 +4,7 @@ title: Constellation DAO Venture Capital Team Incentive System
 description: Issue 401,000 $CXN Tokens to create an incentive system to encourage engagement from members to participate in the VC oriented work of Constellation DAO (“CXND”) in relation to potential investments by Constellation Fund (“CXNF”)
 author: Tak Lo [maddog_xyz#7920], Ben Son [SonnyBeez #9569]
 discussions-to: https://discord.com/channels/920456009267429417/1025589336026120272
-status: Review
+status: Voting
 type: Operations
 category: Treasury
 created: 2022-009-30
