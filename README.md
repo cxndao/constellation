@@ -24,7 +24,7 @@ The charter can be viewed [here](https://docs.google.com/document/d/1sCsD-QiLkXr
 | Info         |            |
 |:-------------|------------|
 | Season start | 2022-04-26 |
-| Season end   | 2022-10-26 |
+| Season end   | 2022-11-01 |
 
 ### Elected Committee Leads
 
