@@ -39,6 +39,26 @@ This CIP strives to lay the groundwork for more substantial discussions about co
 
 ## Proposed Solution
 
+### Definitions
+
+**Bounty:**
+- A reward granted to a community member in exchange for completing a task or project that adds value to the DAO. It is explicitly not remuneration for assigned roles, such as serving on a committee.
+
+**Bounty Origins:**
+- DAO Created - Representatives of the DAO identify a need and clearly articulate the project's scope and associated award. For the purposes of this CIP, this will be the responsibility of the three permanent committees.
+- Member Driven - CXN members may draft a bounty proposal and submit it for review from the community. These can be from members identifying a need or based on areas of interest identified by the committees.
+
+**Bounty Lifecycle:**
+1. An opportunity to add value to the DAO is identified.
+2. A post is drafted articulating the specifics of the task and bounty. These are suggestions and not prescriptive. Please experiment and iterate.
+    - A high-level overview of the bounty
+    - Mission/Requirements - Clearly define what excellence/success looks like and who will review the finished product.
+    - Compensation - Be clear and explicit, and examples help.
+3. The bounty is posted to Dework.
+4. A community member claims the bounty, or in some instances, is approved to work on the bounty.
+5. Upon completion, the reviewer can ask for further revisions or mark it as complete and approve compensation.
+6. For some small bounties, payment may happen automatically, and in other instances, they will be batch processed with other bounties by Treasury.
+
 ### Plan & Timeline
 
 The Dework platform has already been established along with some early projects & bounty ideas input by the permanent committees. Work on Dework’s organizational structure & use will be updated & changed as time goes on. This CIP will be implemented immediately after CIP approval and will run for the remaining length of CXND’s Season 1. 
