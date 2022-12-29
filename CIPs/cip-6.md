@@ -4,7 +4,7 @@ title: POAP & NFT Holder Incentives for XC Tour '22
 description: $CXN Token incentive reward for new and existing members who have been active (attendance and/or referral) in the latest Constellation DAO (“CXND”) and Constellation Fund (“CXNF”) cross country events
 author: Tak Lo [maddog_xyz#7920], Ben Son [SonnyBeez #9569], Jim Stanczak [Jimsta888 #2626]
 discussions-to: https://discord.com/channels/920456009267429417/1039965505991217223
-status: Review
+status: Withdrawn
 type: Operations Track
 category: Treasury
 created: 2022-11-09
