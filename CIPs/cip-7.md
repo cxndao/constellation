@@ -2,7 +2,7 @@
 cip: 7
 title: Funds to Trial Preliminary Bounty Program
 description: Distribute 5,000 $CXN tokens to each permanent committee to develop & award a bounty pilot program for the remainder of Season 1. 
-author: Jim Stanczak [Jimsta888 #2626], Matt Joyal [mattjoyal#0985](mattjoyal)
+author: Jim Stanczak [Jimsta888#2626], Matt Joyal [mattjoyal#0985](mattjoyal)
 discussions-to: https://discord.com/channels/920456009267429417/1054104061009469465
 status: Review
 type: Operations
@@ -15,7 +15,7 @@ created: 2022-12-08
 
 This Constellation DAO (CXND) improvement proposal defines the basic concept and functionality of a bounty along with its associated components and implementations. A bounty is an incentive mechanism that compensates Constellation DAO (CXND) members for their contributions & efforts that help build value for the entire DAO, its members, and the Constellation Fund (CXNF). 
 
-This Constellation DAO Improvement Proposal (CIP) will set a loose framework for an incentivized bounty system in CXND with a small allocation of 5,000 $CXN tokens for each permanent committee (Governance, Programs, & Treasury). 
+This Constellation DAO Improvement Proposal (CIP) will set a loose framework for an incentivized bounty system in CXND with a small allocation of five thousand (5,000) $CXN tokens for each permanent committee (Governance, Programs, & Treasury). 
 
 ## Background & Motivation
 
@@ -29,7 +29,7 @@ This CIP strives to lay the groundwork for more substantial discussions about co
 
   - Experiment with ways to Incentivize members to build value in CXND through rewards for contribution. 
   - Define what a bounty is & the types of bounties available for creation.
-  - Allocate a small amount of $CXN tokens to each permanent committee to utilize
+  - Allocate a nominal amount of $CXN tokens to each permanent committee to utilize
 
 **Non-goals**
 
@@ -42,22 +42,25 @@ This CIP strives to lay the groundwork for more substantial discussions about co
 ### Definitions
 
 **Bounty:**
-- A reward granted to a community member in exchange for completing a task or project that adds value to the DAO. It is explicitly not remuneration for assigned roles, such as serving on a committee.
+
+  - A reward granted to a community member in exchange for completing a task or project that adds value to the DAO. It is explicitly not remuneration for assigned roles, such as serving on a committee.
 
 **Bounty Origins:**
-- DAO Created - Representatives of the DAO identify a need and clearly articulate the project's scope and associated award. For the purposes of this CIP, this will be the responsibility of the three permanent committees.
-- Member Driven - CXN members may draft a bounty proposal and submit it for review from the community. These can be from members identifying a need or based on areas of interest identified by the committees.
+
+  - _DAO Created_ - Representatives of the DAO identify a need and clearly articulate the project's scope and associated award. For the purposes of this CIP, this will be the responsibility of the three permanent committees.
+  - _Member Driven_ - CXN members may draft a bounty proposal and submit it for review from the community. These can be from members identifying a need or based on areas of interest identified by the committees.
 
 **Bounty Lifecycle:**
+
 1. An opportunity to add value to the DAO is identified.
 2. A post is drafted articulating the specifics of the task and bounty. These are suggestions and not prescriptive. Please experiment and iterate.
-    - A high-level overview of the bounty
+    - A high-level overview of the bounty. Outline the purpse. 
     - Mission/Requirements - Clearly define what excellence/success looks like and who will review the finished product.
-    - Compensation - Be clear and explicit, and examples help.
+    - Compensation - Be clear and explicit. Examples help.
 3. The bounty is posted to Dework.
 4. A community member claims the bounty, or in some instances, is approved to work on the bounty.
 5. Upon completion, the reviewer can ask for further revisions or mark it as complete and approve compensation.
-6. For some small bounties, payment may happen automatically, and in other instances, they will be batch processed with other bounties by Treasury.
+6. For some small bounties, payment may happen automatically, and in other instances, payment will be batch processed with other bounties by the Treasury Committee.
 
 ### Plan & Timeline
 
@@ -105,8 +108,8 @@ In terms of bounties, there is a risk that no one participates & the process of 
 
 ## Appendix
 
-<https://docs.google.com/document/d/1AxJLEqddQfHRYBWTpmOgJHtomn0_bukQYdnlvQz5Q_I/edit>
-
+  -  <https://docs.google.com/document/d/1AxJLEqddQfHRYBWTpmOgJHtomn0_bukQYdnlvQz5Q_I/edit>
+  -  <https://docs.google.com/document/d/1D5FqURuntbNhByXfacIF3kgsPQ1XisZiEKXKWUt88-g/edit?usp=sharing>
 
 
 ## Copyright
