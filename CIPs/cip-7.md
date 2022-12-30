@@ -13,13 +13,13 @@ created: 2022-12-08
 
 ## Overview
 
-This Constellation DAO (CXND) improvement proposal defines the basic concept and functionality of a bounty along with its associated components and implementations. A bounty is an incentive mechanism that compensates Constellation DAO (CXND) members for their contributions & efforts that help build value for the entire DAO, its members, and the Constellation Fund (CXNF). 
+This Constellation DAO (CXND) improvement proposal endeavors to implement a mechanism for the DAO to reward its members for their contributions & efforts that build value for the DAO, its members, and the Constellation Fund (CXNF). The web3-native term for these incentives is “bounties”, as further defined below.
 
 This Constellation DAO Improvement Proposal (CIP) will set a loose framework for an incentivized bounty system in CXND with a small allocation of five thousand (5,000) $CXN tokens for each permanent committee (Governance, Programs, & Treasury). 
 
 ## Background & Motivation
 
-Bounties are a prevalent form of compensation in the world of DAOs and Web 3. They exist along a spectrum, from small routine tasks and pull requests to significant, multi-staged projects. Accordingly, bounties can be listed on a permissionless task board any member can access and choose to execute, to the other extreme where jobs are restricted to members with particular skills or roles and may also require an application and approval process. But all bounties share a common goal – to incentivize members to contribute their time and talent to increase the value of the DAO in exchange for increased voting power.
+Bounties are a prevalent form of compensation in the world of DAOs and Web 3. They exist along a spectrum, from small routine tasks and pull requests to significant, multi-staged projects. But all bounties share a common goal – to incentivize members to contribute their time and talent to increase the value of the DAO in exchange for increased voting power.
 
 This CIP strives to lay the groundwork for more substantial discussions about compensation within the DAO. As such, it is left quite broad and open-ended to allow for a reasonable amount of experimentation. 
 
