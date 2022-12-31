@@ -4,7 +4,7 @@ title: Funds to Trial Preliminary Bounty Program
 description: Distribute 5,000 $CXN tokens to each permanent committee to develop & award a bounty pilot program for the remainder of Season 1.
 author: Jim Stanczak [Jimsta888#2626], Matt Joyal [mattjoyal#0985](mattjoyal)
 discussions-to: https://discord.com/channels/920456009267429417/1054104061009469465
-status: Review
+status: VOTING
 type: Operations
 category: Programs
 created: 2022-12-08
