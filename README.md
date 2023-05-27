@@ -6,7 +6,7 @@
 |--------------------|-----------------------------------------|
 | aka                | CXN DAO                                 |
 | Discord            | https://discord.gg/WUEmz9AEpA           |
-| Twitter            | [@cxndao](https://twitter.com)          |
+| Twitter            | [@cxndao](https://twitter.com/cxndao)   |
 | Twitter (The Fund) | [@CXNFund](https://twitter.com/CXNFund) |
 
 ## DAO Charter
